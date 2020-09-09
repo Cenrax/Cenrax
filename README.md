@@ -26,4 +26,4 @@ I love to read books and gain insights into various domains from hardware to sof
 
 #### I am a great fan of distributed learning and I always try to explore and create application which can be made with limited power resources or I can say an application which can be cumulatively built
 
-Presently I am working on federated Learning and MLOps. I also try to develop an end to end system in whichever project I am working.
+Presently I am working on developing end to end systems and exploring technolgies like kubernetes and kubeflow.
