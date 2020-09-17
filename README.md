@@ -25,5 +25,3 @@ I have worked on several research and development projects. At present, I am a r
 I love to read books and gain insights into various domains from hardware to software. 
 
 #### I am a great fan of distributed learning and I always try to explore and create application which can be made with limited power resources or I can say an application which can be cumulatively built
-
-Presently I am working on developing end to end systems and exploring technolgies like kubernetes and kubeflow.
