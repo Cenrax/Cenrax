@@ -26,4 +26,4 @@ I love to read books and gain insights and ideas into various domains from hardw
 
 
 
-#### I am a great fan of distributed learning and I always try to explore and create application which can be made with limited power resources or I can say an application which can be cumulatively built
+#### I am a great fan of distributed learning and I always try to explore and create application which can be made with limited power resources or I can say an application which can be cumulatively built.
