@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 ## Welcome to my Profile
 
-- 🔭 I’m currently working on Full Stack Application Development, DPDK Development
+- 🔭 I’m currently working on Full Stack Application Development, DPDK Development, 
 - 🌱 I’m currently learning Cloud Native and MLOPS tools
 - 👯 I’m looking to collaborate on machine learning projects, open source projects
 - 💬 Ask me about CI/CD and ML
