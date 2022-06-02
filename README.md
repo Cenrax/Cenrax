@@ -5,10 +5,10 @@
 Here are some ideas to get you started: -->
 ## Welcome to my Profile
 
-- 🔭 I’m currently working on Full Stack Application Development with expertise in mobx and state managament. 
-- 🌱 I’m currently learning Cloud Native, MLOPS and application of ML in software based networking.
+- 🔭 I’m currently working on Full Stack Application Development. 
+- 🌱 I’m currently learning Machine Learning along with Optimization.
 - 🌱 Edge Computing, Computer Vision and Quantum Computing is something which I keep myself updated with.
-- 👯 I’m looking to collaborate on machine learning projects, open source projects
+- 👯 My research interest is in the interface of Machine Learning and Computer Architecture
 - 💬 Ask me about CI/CD, React, Machine Learning.
 - 📫 How to reach me: https://www.linkedin.com/in/subham-kundu-2746b515b/
 
