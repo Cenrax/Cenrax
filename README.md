@@ -5,11 +5,10 @@
 Here are some ideas to get you started: -->
 ## Welcome to my Profile
 
-- 🔭 I’m currently working on Full Stack Application Development. 
-- 🌱 I’m currently learning Machine Learning along with Optimization.
-- 🌱 Edge Computing, Computer Vision and Quantum Computing is something which I keep myself updated with.
-- 👯 My research interest is in the interface of Machine Learning and Computer Architecture
-- 💬 Ask me about CI/CD, React, Machine Learning.
+- I’m currently working as Applied AI software engineer.
+- My research and innovations comprises of making LLMs compute efficient and using knowledge graphs to enhance LLMs.
+- I am also working on the reliability and security of LLMs'
+- Edge Computing, Computer Vision and Quantum Computing is something which I keep myself updated with.
 - 📫 How to reach me: https://www.linkedin.com/in/subham-kundu-2746b515b/
 
 ## Welcome to my Profile.
