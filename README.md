@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 ## Welcome to my Profile
 
-- I’m currently working as Applied AI software engineer.
+- I’m currently working as Full Stack Engineer.
 - My research and innovations comprises of making LLMs compute efficient and using knowledge graphs to enhance LLMs.
 - I am also working on the reliability and security of LLMs'
 - Edge Computing, Computer Vision and Quantum Computing is something which I keep myself updated with.
