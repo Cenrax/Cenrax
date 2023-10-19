@@ -5,10 +5,10 @@
 Here are some ideas to get you started: -->
 ## Welcome to my Profile
 
-- I’m currently working as Full Stack Engineer.
-- My research and innovations comprises of making LLMs compute efficient and using knowledge graphs to enhance LLMs.
-- I am also working on the reliability and security of LLMs'
-- Edge Computing, Computer Vision and Quantum Computing is something which I keep myself updated with.
+- I’m currently working as Full Stack AI Engineer.
+- My research and innovations comprises of making LLMs compute efficient and using creating low-latency inference stack.
+- I am also working on the reliability and security of LLMs' and deployed various guardrails to make LLMs more secure.
+- Applied Machine Learning, Statistics and NLP is something in which I keep myself updated.
 - 📫 How to reach me: https://www.linkedin.com/in/subham-kundu-2746b515b/
 
 ## Welcome to my Profile.
