@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 ## Welcome to my Profile
 
-- I’m currently working as Full-Stack AI engineer focused mainly on building scalable AI solution.
+- I’m currently working as Principal AI Engineer focused mainly on building scalable AI solution.
 - My expertise is in building production grade AI products.
 - My research and innovations comprises of making LLMs compute efficient and using creating low-latency inference stack.
 - I am also working on the reliability and security of LLMs' and deployed various guardrails to make LLMs more secure.
