@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practical Challenges in Developing RAG Systems</title>
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        .blog-post {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .blog-post h1 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        .blog-post h2 {
+            margin-top: 2rem;
+        }
+        .blog-post ul, .blog-post ol {
+            margin-left: 2rem;
+        }
+        .blog-post img {
+            max-width: 100%;
+            height: auto;
+            margin: 1rem 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Subham Kundu's Blog</h1>
+        </div>
+    </header>
+
+    <main>
+        <article class="blog-post">
+            <h1>Practical Challenges in Developing Retrieval Augmented Generation (RAG) Systems</h1>
+
+            <img src="../images/rag-challenges-image.jpg" alt="RAG System Diagram" />
+
+            <p>In this post, I'll discuss the practical challenges I encountered while developing Retrieval Augmented Generation systems (RAGs) for various clients. This topic is particularly relevant in the context of the hot topics within the generative AI ecosystem, where blogs and companies continually explore RAG integration.</p>
+
+            <h2>What is RAG?</h2>
+            <p>In simple terms, RAG is used to query and retrieve answers from a company's internal data. To simplify, documents are first transformed into embeddings and stored in a vector database. When a user poses a question, the top documents and the query are sent to the Language Model (LLM), and the user subsequently receives the answer. Please refer to the diagram above for a comprehensive overview.</p>
+
+            <h2>Challenge 1: Effective Document Chunking</h2>
+            <p>Imagine an organization with 100 documents of varying lengths, some being 50 pages, while others extend to 200 pages. The initial task is to segment each document into smaller, effective chunks by defining rules to find an optimal balance between containing sufficient information and avoiding excessive length. This remains a significant challenge due to non-sequential information, where a topic in chapter 7 may have valuable insights in a previous chapter, like chapter 4. Simple chunking may not capture this relevant information adequately.</p>
+            <p>This aspect remains an active research area with various approaches. One solution involves the implementation of knowledge graphs, which I successfully applied for one of my clients, yielding highly effective results.</p>
+
+            <h2>Challenge 2: Handling Hierarchical Document Structures</h2>
+            <p>Many of our documents have a hierarchical structure, with sections, subsections, and sub-subsections. To create robust embeddings, it's essential to convert this hierarchical structure into a flat structure. This is where expertise in information retrieval and data science plays a crucial role in developing an effective RAG system.</p>
+
+            <h2>Challenge 3: Dealing with Document Updates</h2>
+            <p>Suppose you have developed a highly functional RAG application for 100 documents, and it works seamlessly. However, if a company updates a particular document while the vector database still holds the old document embeddings, querying it will yield answers based on the outdated content with high confidence. This issue underscores the importance of metadata. For one of my clients, I addressed this situation by implementing document versioning.</p>
+
+            <h2>Conclusion</h2>
+            <p>In this post, I've discussed the modeling challenges to consider when developing a RAG application, without even delving into the unique challenges presented by images or audio. In my next post, I will explore the infrastructure challenges that require attention in RAG application development.</p>
+
+            <p>Personally, I believe that challenges drive innovation, and I look forward to further developments in this space. Please feel free to share any additional challenges you've encountered in the comments.</p>
+
+            <p><a href="../index.html">Back to Home</a></p>
+        </article>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Subham Kundu. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
