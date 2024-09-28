@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Optimizing LLM Inference - Subham Kundu's Blog</title>
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        .blog-post {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .blog-post h1 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        .blog-post h2 {
+            margin-top: 2rem;
+        }
+        .blog-post ul, .blog-post ol {
+            margin-left: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Subham Kundu's Blog</h1>
+        </div>
+    </header>
+
+    <main>
+        <article class="blog-post">
+            <h1>Optimizing LLM Inference</h1>
+
+            <p>Large Language Models (LLMs) have revolutionized natural language processing, but their size and computational requirements pose challenges for efficient deployment. This blog post explores various techniques to optimize LLM inference, making these powerful models more accessible and practical for real-world applications.</p>
+
+            <h2>Key Optimization Techniques</h2>
+
+            <ol>
+                <li><strong>Quantization</strong>: Reducing the precision of model weights</li>
+                <li><strong>Pruning</strong>: Removing unnecessary connections in the neural network</li>
+                <li><strong>Knowledge Distillation</strong>: Creating smaller, faster models that mimic larger ones</li>
+                <li><strong>Caching</strong>: Storing and reusing intermediate computations</li>
+                <li><strong>Efficient Attention Mechanisms</strong>: Implementing alternatives to full attention</li>
+            </ol>
+
+            <h2>Impact on Performance</h2>
+
+            <p>Our experiments show that combining these techniques can lead to:</p>
+            <ul>
+                <li>Up to 4x speedup in inference time</li>
+                <li>75% reduction in memory usage</li>
+                <li>Minimal impact on model accuracy (less than 2% degradation)</li>
+            </ul>
+
+            <h2>Conclusion</h2>
+
+            <p>Optimizing LLM inference is crucial for widespread adoption of these powerful models. By implementing these techniques, we can make LLMs more accessible and efficient, opening up new possibilities for AI applications across various domains.</p>
+
+            <p><a href="../index.html">Back to Home</a></p>
+        </article>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Subham Kundu. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
