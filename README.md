@@ -1,23 +1,31 @@
-### Hi there 👋
+👋 Hi, I'm Subham Kundu
 
-<!--
-**Cenrax/Cenrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-Here are some ideas to get you started: -->
-## Welcome to my Profile
+🚀 Founder building AI agents that transform how businesses operate | PhD Scholar in Reinforcement Learning & Agentic Systems
 
-- I’m currently working as Principal AI Engineer focused mainly on building scalable AI solution.
-- My expertise is in building production grade AI products.
-- My research and innovations comprises of making LLMs compute efficient and using creating low-latency inference stack.
-- I am also working on the reliability and security of LLMs' and deployed various guardrails to make LLMs more secure.
-- Applied Machine Learning, Statistics and NLP is something in which I keep myself updated.
-- 📫 How to reach me: https://www.linkedin.com/in/subham-kundu-2746b515b/
+🔧 **What I do:**
+- Build production-ready AI sales agents and copilots for fortune 500 companies, all of them are in production.
+- Engineer DevOps automation systems and voice AI solutions
+- Optimize LLM performance (cut search costs by 99% at scale)
+- Bridge cutting-edge research with enterprise reality
 
-## Welcome to my Profile.
+💡 **Recent Impact:**
+- Delivered 20+ voice agents handling thousands of daily interactions
+- Built AI auditing systems saving 80+ hours of manual work
+- Led $5M deal strategy with intelligent document solutions
+- Reduced AI hallucination by 57% in threat intelligence systems
 
-I have completed my bachelor's in Electronics and Communication Engineering from the Institute of Engineering and Management, Kolkata. I believe in continuous learning and try to find out real-life applications of whatever knowledge I have gained. I love to read scientific articles and try to keep myself updated with the latest technologies that is flourishing around the world. 
+🎯 **Current Focus:**
+- Stealth Startup: AI agents for e-commerce automation
+- PhD Research: Reinforcement learning in agentic systems
+- Open Source: Building tools for the AI agent ecosystem
 
-I love to read books and gain insights and ideas into various domains from hardware to software. 
+🌟 **Philosophy:**
+I believe the best AI systems emerge at the intersection of rigorous research and practical implementation. I'm systematically curious, culturally grounded (Bengali roots 🇧🇩), and constantly exploring the edge of what's possible with AI.
 
+📫 Let's connect:
+- 📧 Email: contact@subhamkundu.com
+- 💼 LinkedIn: [linkedin.com/in/subham-kundu-2746b515b](https://www.linkedin.com/in/subham-kundu-2746b515b)
+- 📝 Substack: [cenrax.substack.com](https://cenrax.substack.com)
+- 📅 Book a call: [cal.com/subham-kundu-yojo4h](https://cal.com/subham-kundu-yojo4h/30min)
 
-
-#### I am a great fan of parallel processing and optimizing stuffs and I always try to explore and create application which can be made with limited power resources or I can say an application which can be cumulatively built.
+⚡ Fun fact: Built an LLM chatbot scaled to 5,0000 students that was featured on Chinese national TV! Engineered the copilot system that is deployed in LG US which handles around 11000 cases and around 500k messages daily.
