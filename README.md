@@ -23,7 +23,7 @@
 I believe the best AI systems emerge at the intersection of rigorous research and practical implementation. I'm systematically curious, culturally grounded (Bengali roots 🇧🇩), and constantly exploring the edge of what's possible with AI.
 
 📫 Let's connect:
-- 📧 Email: contact@subhamkundu.com
+- 📧 Email: subhamkundu999@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/subham-kundu-2746b515b](https://www.linkedin.com/in/subham-kundu-2746b515b)
 - 📝 Substack: [cenrax.substack.com](https://cenrax.substack.com)
 - 📅 Book a call: [cal.com/subham-kundu-yojo4h](https://cal.com/subham-kundu-yojo4h/30min)
